@@ -10,6 +10,8 @@ public class AnimalNoise {
 		System.out.println(fluffy.speak());
 		RedPanda thief = new RedPanda();
 		System.out.println(thief.speak());
+		Eagle bucky = new Eagle("Bald Eagle", 6.6, 12);
+		System.out.println(bucky.speak());
 	}
 
 }
