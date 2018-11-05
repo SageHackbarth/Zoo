@@ -14,6 +14,8 @@ public class AnimalNoise {
 		System.out.println(bucky.speak());
 		Wolverine victor = new Wolverine("Victor", "Blue&Maze", "Michigan");
 		System.out.println(victor.speak());
+		Snake slitherySnake = new Snake();
+		System.out.println(slitherySnake.speak());
 	}
 
 }
