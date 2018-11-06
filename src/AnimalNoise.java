@@ -13,6 +13,17 @@ public class AnimalNoise {
 		Eagle bucky = new Eagle("Bald Eagle", 6.6, 12);
 		System.out.println(bucky.speak());
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+		
+		
+		
+		
+		
+		
+		
+		
+>>>>>>> eaa88d3fa5d6e6109d659619fdbbedb3ded475c7
 		Mouse sneaky = new Mouse();
 		System.out.println(sneaky.speak());
 =======
