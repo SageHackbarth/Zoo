@@ -12,35 +12,15 @@ public class AnimalNoise {
 		System.out.println(thief.speak());
 		Eagle bucky = new Eagle("Bald Eagle", 6.6, 12);
 		System.out.println(bucky.speak());
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-		
-		
-		
-		
-		
-		
-		
-		
->>>>>>> eaa88d3fa5d6e6109d659619fdbbedb3ded475c7
 		Mouse sneaky = new Mouse();
 		System.out.println(sneaky.speak());
-=======
 		Wolverine victor = new Wolverine("Victor", "Blue&Maze", "Michigan");
 		System.out.println(victor.speak());
-<<<<<<< HEAD
-		
-		
-		
-		
 		Rat stan = new Rat("Stan", 7.2, 3);
 		System.out.println(stan.speak());
-=======
 		Snake slitherySnake = new Snake();
 		System.out.println(slitherySnake.speak());
->>>>>>> master
->>>>>>> master
+
 	}
 
 }
