@@ -12,6 +12,14 @@ public class AnimalNoise {
 		System.out.println(thief.speak());
 		Eagle bucky = new Eagle("Bald Eagle", 6.6, 12);
 		System.out.println(bucky.speak());
+		
+		
+		
+		
+		
+		
+		
+		
 		Mouse sneaky = new Mouse();
 		System.out.println(sneaky.speak());
 	}
