@@ -14,12 +14,17 @@ public class AnimalNoise {
 		System.out.println(bucky.speak());
 		Wolverine victor = new Wolverine("Victor", "Blue&Maze", "Michigan");
 		System.out.println(victor.speak());
+<<<<<<< HEAD
 		
 		
 		
 		
 		Rat stan = new Rat("Stan", 7.2, 3);
 		System.out.println(stan.speak());
+=======
+		Snake slitherySnake = new Snake();
+		System.out.println(slitherySnake.speak());
+>>>>>>> master
 	}
 
 }
