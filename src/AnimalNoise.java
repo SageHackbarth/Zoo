@@ -20,7 +20,8 @@ public class AnimalNoise {
 		System.out.println(stan.speak());
 		Snake slitherySnake = new Snake();
 		System.out.println(slitherySnake.speak());
-
+		Wolf wolfy = new Wolf();
+		System.out.println(wolfy.speak());
 	}
 
 }
