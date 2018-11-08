@@ -21,6 +21,7 @@ public class AnimalNoise {
 		Snake slitherySnake = new Snake();
 		System.out.println(slitherySnake.speak());
 		BarredOwl hooter = new BarredOwl("Buckeye", "Always", 3);
+		System.out.println(hooter.speak());
 
 	}
 
